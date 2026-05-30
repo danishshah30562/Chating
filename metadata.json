@@ -1,0 +1,6 @@
+{
+  "name": "ChatPulse",
+  "description": "A responsive local chatting experience with live status modifications, friend requests, user profiles, and active AI-powered Gemini conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
